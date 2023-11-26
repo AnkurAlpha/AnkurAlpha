@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnkurAlpha
-- 👀 I’m interested in ML,C#,C++ and python
+- 👀 I’m interested in ML,C#,C++,python,bas scrpiting and java .
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing currently, busy with my [JEE exams](https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced) 
 - 📫 How to reach me : just see me here --> https://ankuralpha.gitlab.io/my-web/
