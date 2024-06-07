@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @AnkurAlpha
-- 👀 I’m interested in ML,C#,C++,python,bash scrpiting and java .
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on nothing currently, busy with my [JEE exams](https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced) 
-- 📫 How to reach me : just see me here --> https://ankuralpha.gitlab.io/my-web/
-- I am more active on gitlab than github. I am currently preparing for college admission exams 
-<!---
-AnkurAlpha/AnkurAlpha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# AnkurAlpha
+Hi, I am AnkurAlpha (Ankur Kumar)
+- currently about to take admission in a college.
+- I am currently learning Python and DSA stuffs.
+- I love to learn and solve problems specially those in which you need think
+    deep with pen and paper.
+- To know more please have look at my [gitlab pages](https://ankuralpha.gitlab.io/my-web/)
+- Well, IDK why someone would like to contact me 🗿,
+    but you can contact me [here](https://discordapp.com/users/1138139645935362070)
+
+### Technologies I use
+    - Neovim
+    - Linux
+    - python
+    - c++
+
+### What I am doing
+- I am currently learning NumPy and Matplotlib.
+- I also want to refresh my knowledge of MySQL database, I learnt it in school but now I have forgot.
+- I am also trying to improve my speaking skills, remove my hasitation by uploading 
+    videos where I try to speak on YouTube.
+
+### For hiring
+- TBH, I don't have any skill ATM currently which can benefit any company or startup.
+- When I will feel like yes I have some really valuable skills then you will see a resume link
+    instead of this useless text here.
