@@ -6,7 +6,7 @@ Hi, I am AnkurAlpha (Ankur Kumar)
     deep with pen and paper.
 - To know more please have look at my [gitlab pages](https://ankuralpha.gitlab.io/my-web/)
 - Well, IDK why someone would like to contact me 🗿,
-    but you can contact me [here](https://discordapp.com/users/1138139645935362070)
+    but you can contact me [here](https://www.linkedin.com/in/ankur-kumar-44061a2b8/)
 
 ### Technologies I use
     - Neovim
