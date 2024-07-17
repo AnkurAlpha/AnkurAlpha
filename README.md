@@ -13,10 +13,9 @@ Hi, I am AnkurAlpha (Ankur Kumar)
     - Linux
     - python
     - c++
-    - Java (currently learning)
 
 ### What I am doing
-- I am currently learning NumPy , Matplotlib and tkinter libraries .
+- I am trying to advance in C++ STL libraries.
 - I also want to refresh my knowledge of MySQL database, I learnt it in school but now I have forgot.
 - I am also trying to improve my speaking skills, remove my hasitation by uploading
     videos where I try to speak on YouTube.
