@@ -1,7 +1,7 @@
 # AnkurAlpha
 Hi, I am AnkurAlpha (Ankur Kumar)
-- currently about to take admission in a college.
-- I am currently learning Python and DSA stuffs.
+- I am a freseher , just got admission in VIT Chennai campus.
+- I am currently learning Python modules and DSA stuffs, but lover of C++.
 - I love to learn and solve problems specially those in which you need think
     deep with pen and paper.
 - To know more please have look at my [gitlab pages](https://ankuralpha.gitlab.io/my-web/)
