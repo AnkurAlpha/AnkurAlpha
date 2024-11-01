@@ -26,4 +26,5 @@ Hi, I am AnkurAlpha (Ankur Kumar)
     instead of this useless text here.
 
 
-[BuyMeACoffee](buymeacoffee.com/AnkurAlpha)
+#### Donate
+[BuyMeABook](buymeacoffee.com/AnkurAlpha)
