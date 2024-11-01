@@ -24,3 +24,6 @@ Hi, I am AnkurAlpha (Ankur Kumar)
 - TBH, I don't have any skill ATM currently which can benefit any company or startup.
 - When I will feel like yes I have some really valuable skills then you will see a resume link
     instead of this useless text here.
+
+
+[BuyMeACoffee](buymeacoffee.com/AnkurAlpha)
