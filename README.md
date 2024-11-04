@@ -27,4 +27,4 @@ Hi, I am AnkurAlpha (Ankur Kumar)
 
 
 #### Donate
-[BuyMeABook](buymeacoffee.com/AnkurAlpha)
+[BuyMeACoffee](buymeacoffee.com/AnkurAlpha)
