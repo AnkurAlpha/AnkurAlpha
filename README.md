@@ -1,6 +1,6 @@
 # AnkurAlpha
 Hi, I am AnkurAlpha (Ankur Kumar)
-- I am a freseher , just got admission in VIT Chennai campus.
+- I am a 1st year student at VIT Chennai campus.
 - I am currently learning Python modules and DSA stuffs, but lover of C++.
 - I love to learn and solve problems specially those in which you need think
     deep with pen and paper.
@@ -27,4 +27,4 @@ Hi, I am AnkurAlpha (Ankur Kumar)
 
 
 #### Donate
-[BuyMeACoffee](buymeacoffee.com/AnkurAlpha)
+[BuyMeACoffee](https://buymeacoffee.com/ankuralpha)
